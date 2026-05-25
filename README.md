@@ -48,5 +48,5 @@ After recalibration:
 - Financial econometrics
 - Time series analysis
 
-## Authors
+## Author
 Inès Tapoayi
